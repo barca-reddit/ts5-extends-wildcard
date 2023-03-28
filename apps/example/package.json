@@ -1,0 +1,11 @@
+{
+    "name": "@repo/example",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "build": "npx tsc"
+    },
+    "dependencies": {
+        "@repo/config": "*"
+    }
+}
